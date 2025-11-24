@@ -1,0 +1,31 @@
+{
+  "name": "reacttraining",
+  "version": "1.0.0",
+  "description": "This is Namaste React training",
+  "keywords": [
+    "React"
+  ],
+  "homepage": "https://github.com/Nagalathisha/ReactTraining#readme",
+  "bugs": {
+    "url": "https://github.com/Nagalathisha/ReactTraining/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagalathisha/ReactTraining.git"
+  },
+  "license": "ISC",
+  "author": "NagaLathisha Meka",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
